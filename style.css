@@ -4,7 +4,7 @@ body   {
     background-color:#fdfdfd;
     color:#333;
     line-height:1,6;
-    animation: fadeIn 2s ease-in;
+    animation: fadeIn 1s ease-in;
 }
 
 header {
@@ -15,7 +15,7 @@ header {
     display:flex;
     align-items:center;
     justify-content:space-between;
-    animation:fadeIn 2s ease-in;
+    animation:fadeIn 1s ease-in;
 }
 header h1{
     flex-grow:1;

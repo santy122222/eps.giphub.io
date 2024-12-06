@@ -115,10 +115,6 @@ footer{
      color:white;
      font-size: 0,9em;
      }
-@media(max-width: 600px){
-     .container{
-       flex-direction: column;
-
 @media (max-width: 600px){
     .container{
         flex-direction: column;
@@ -130,8 +126,3 @@ footer{
         padding: 15px;
     }
 }
-     }
-
-
-}
-
